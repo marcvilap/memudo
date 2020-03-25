@@ -162,7 +162,7 @@ export default class CreateRemoval extends Component {
 
                     {/* <div className="col-md-4 mx-auto">
 
-                        <CreateGeneralSettings {...this.state} />
+                        <CreateGeneralSettings {...this.state} /> HOLA
                         
                     </div> */}
                 </div>
